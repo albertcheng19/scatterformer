@@ -1,6 +1,5 @@
-# ScatterFormer
+# ScatterFormer: Locally-Invariant Scattering Transformer for Patient-Independent Multispectral Detection of Epileptiform Discharges 
 
-**ScatterFormer: Locally-Invariant Scattering Transformer for Patient-Independent Multispectral Detection of Epileptiform Discharges**  
 *AAAI 2023 Oral Presentation*
 
 **Authors:**  
@@ -58,4 +57,5 @@ Unlike standard CNN or ViT approaches that often lose high-frequency EEG informa
 3. Frequency-Aware Attention (FAA) → High-frequency refinement  
 4. Transformer Encoder → Contextual integration  
 5. Output: Epileptiform discharge probability map
+
 
